@@ -1,0 +1,5 @@
+name: Mdice 2
+version: 1.0
+main: mohaimen.dice.mdice2.Mdice2
+commands:
+  mdice:
